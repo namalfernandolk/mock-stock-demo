@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>mock-stock-demo</groupId>
+  <artifactId>mock-stock-demo</artifactId>
+  <version>1.0.0</version>
+  <name>Mock-Stock-Demo</name>
+  <description>Mock-Stock-Demo</description>
+  
+  	<dependencies>
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-core</artifactId>
+			<version>2.2.10</version>
+		</dependency>
+	</dependencies>
+  
+</project>
